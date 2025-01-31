@@ -1,0 +1,17 @@
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.csproj.AssemblyReference.cache
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\Interop.WMPLib.dll
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.csproj.ResolveComReference.cache
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.AddNew.resources
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.Form1.resources
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.FrmPlay.resources
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.Properties.Resources.resources
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.csproj.GenerateResource.cache
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.csproj.CoreCompileInputs.cache
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\bin\Debug\JETFLIX.exe.config
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\bin\Debug\JETFLIX.exe
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\bin\Debug\JETFLIX.pdb
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\bin\Debug\Interop.WMPLib.dll
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.exe
+C:\Users\it gallery\source\repos\JETFLIX\JETFLIX\obj\Debug\JETFLIX.pdb
